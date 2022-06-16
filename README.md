@@ -5,6 +5,8 @@ Overview.
 
 Resources Used to Complete Analysis.
 
-. Different CSV files.
-. Jupyter Notebook files.
+. Different CSV files;
+
+. Jupyter Notebook files;
+
 . Dependencies: Pandas, Numpy, Matplotlib, Datetime, Time, SciPy API keys, CitiPy, Requests, JSON.
