@@ -29,11 +29,17 @@ The DataFrame was created to get the initial list of potential cities:
 ![Dataframe weather summary](https://user-images.githubusercontent.com/104453593/173970216-a5f96144-d2c9-4a50-b5cd-a0e478f983a2.PNG)
 
 
-# Customer Travel Destinations Map
+# Create a Customer Travel Destinations Map
 Based on different traveler's weather preferences, the dataframe was cleaned for null hotel entries. 
 A marker layer map was created that has pop-up markers for each city on the map.
  
  ![WeatherPy_vacation_map](https://user-images.githubusercontent.com/104453593/173971736-764c7336-61d4-46e6-b43b-84c1d6319b4a.PNG)
  
  
- 
+# Create a Travel Itinerary Map
+The list was narrowed down to 4 cities in the same country and a map was created.
+
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/104453593/173974162-34fd0428-b7c1-42ff-b878-63ca89bf244b.PNG)
+
+
+
