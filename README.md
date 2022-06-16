@@ -42,4 +42,7 @@ The list was narrowed down to 4 cities in the same country and a map was created
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/104453593/173974162-34fd0428-b7c1-42ff-b878-63ca89bf244b.PNG)
 
 
+Markers were added to the map of four cities.
+
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/104453593/173974799-5a5f01c5-ddd4-40e2-b94a-d13e0440d89e.PNG)
 
