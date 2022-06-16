@@ -24,5 +24,7 @@ The following data was retrieved from the API call:
 * Maximum Temperature
 * Current weather description
 
+The DataFrame was created to get the initial list of potential cities:
 
+![Dataframe weather summary](https://user-images.githubusercontent.com/104453593/173970216-a5f96144-d2c9-4a50-b5cd-a0e478f983a2.PNG)
 
